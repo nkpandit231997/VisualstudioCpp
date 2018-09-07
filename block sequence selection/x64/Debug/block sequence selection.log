@@ -1,0 +1,5 @@
+﻿  block sequence selection.cpp
+c:\users\niraj\source\repos\block sequence selection\block sequence selection\block sequence selection.cpp(128): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\niraj\source\repos\block sequence selection\block sequence selection\block sequence selection.cpp(135): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\niraj\source\repos\block sequence selection\block sequence selection\block sequence selection.cpp(136): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  block sequence selection.vcxproj -> C:\Users\niraj\source\repos\block sequence selection\x64\Debug\block sequence selection.exe
